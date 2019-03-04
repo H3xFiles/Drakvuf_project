@@ -1,4 +1,8 @@
-# Drakvuf_project
+# Drakvuf Gsoc 2019
+- [Official repo](https://github.com/tklengyel/drakvuf)
+- [Leading developer: Tamas K Lengyel ](https://tklengyel.com/)
+
+### Introduction
 DRAKVUF is a virtualization based agentless black-box binary analysis system. DRAKVUF allows for in-depth execution tracing of arbitrary binaries (including operating systems), all without having to install any special software within the virtual machine used for analysis.
 
 ### Introduction videos about what is Drakvuf

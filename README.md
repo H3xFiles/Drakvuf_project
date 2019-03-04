@@ -15,7 +15,7 @@ DRAKVUF is a virtualization based agentless black-box binary analysis system. DR
 
 ### Articles
 - [Cloud Computing and Security: First International Conference, ICCCS 2015 ](https://books.google.pl/books?id=rP1SCwAAQBAJ&lpg=PA385&ots=ikTF_JKCWC&dq=what%20is%20Drakvuf&hl=pl&pg=PA385#v=onepage&q=what%20is%20Drakvuf&f=false)
-
+- [Configure LVM guide](https://www.howtogeek.com/howto/40702/how-to-manage-and-use-lvm-logical-volume-management-in-ubuntu/)
 
 
 ### Other videos
